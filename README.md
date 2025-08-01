@@ -71,6 +71,33 @@ To create a practical and scalable solution, we developed **three types of evalu
 
 ##  Screenshots
 
+###   Fine tuning approach
+![Sentence Database](<img width="2479" height="3542" alt="a01-000u" src="https://github.com/user-attachments/assets/f849089f-ab15-4d51-b69c-d138d5b2940a" />
+)
+<img width="637" height="362" alt="image" src="https://github.com/user-attachments/assets/bac43b17-9fac-49ec-a626-73872808c73b" />
+
+
+### Dataset used for evaluation
+![Dataset](<img width="916" height="535" alt="image" src="https://github.com/user-attachments/assets/6aa88dbd-2036-453d-8c3e-aff862273745" />
+)
+
+### Interface 
+<img width="627" height="372" alt="image" src="https://github.com/user-attachments/assets/833ba88c-9ad1-4dea-b109-cbcfda6f1839" />
+
+## Model answer
+<img width="927" height="197" alt="image" src="https://github.com/user-attachments/assets/9742faed-dda4-430e-a8e7-8281bb085c35" />
+
+## Extracted text
+<img width="618" height="422" alt="image" src="https://github.com/user-attachments/assets/e25a4dbf-bd5f-4e21-b943-cd9627444701" />
+<img width="438" height="412" alt="image" src="https://github.com/user-attachments/assets/64182ee4-3ae7-4af7-b634-2f9cc644ca32" />
+
+## Graphical Analysis
+<img width="812" height="396" alt="image" src="https://github.com/user-attachments/assets/6d8697b8-1e67-4a95-8aec-222f06a431ae" />
+
+
+
+
+
 
 
 
