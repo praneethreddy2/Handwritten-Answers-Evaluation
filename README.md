@@ -71,17 +71,15 @@ To create a practical and scalable solution, we developed **three types of evalu
 
 ##  Screenshots
 
-###   Fine tuning approach
-![Sentence Database](<img width="2479" height="3542" alt="a01-000u" src="https://github.com/user-attachments/assets/f849089f-ab15-4d51-b69c-d138d5b2940a" />
-)
+##  Fine tuning approach
+<img width="2479" height="3542" alt="a01-000u" src="https://github.com/user-attachments/assets/f849089f-ab15-4d51-b69c-d138d5b2940a" />
+
 <img width="637" height="362" alt="image" src="https://github.com/user-attachments/assets/bac43b17-9fac-49ec-a626-73872808c73b" />
 
+## Dataset used for evaluation
+<img width="916" height="535" alt="image" src="https://github.com/user-attachments/assets/6aa88dbd-2036-453d-8c3e-aff862273745" />
 
-### Dataset used for evaluation
-![Dataset](<img width="916" height="535" alt="image" src="https://github.com/user-attachments/assets/6aa88dbd-2036-453d-8c3e-aff862273745" />
-)
-
-### Interface 
+## Interface 
 <img width="627" height="372" alt="image" src="https://github.com/user-attachments/assets/833ba88c-9ad1-4dea-b109-cbcfda6f1839" />
 
 ## Model answer
